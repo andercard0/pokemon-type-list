@@ -1,6 +1,5 @@
 # Pokemon type list HTML | CSS
 
-
 Small Pokémon challege for trainning purposes
 
 Needs Refactoring:
@@ -18,7 +17,6 @@ Credits:
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/6ggWZtO.png"/>
-<h2 align="center">Pokémon lista de tipos HTML | CSS Básico</h2>
 <img align="center" src="https://i.imgur.com/Vem1vKa.png" width="1728"> 
 
 <h2 align="center"> Tech used in the project 💻</h2>
