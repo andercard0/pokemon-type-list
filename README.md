@@ -11,7 +11,6 @@ Needs Refactoring:
 
 Credits:
 - Result Image by: Uknow grabbed in a random discord channel
-
 - SVG icons by: duiker101
 - https://github.com/duiker101
 - https://github.com/duiker101/pokemon-type-svg-icons
