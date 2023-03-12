@@ -11,7 +11,7 @@ To Do:
 Credits:
 - Result Image by: Unknown
 - SVG icons by: <a href="https://github.com/duiker101" style="text-decoration: none;">Duiker101</a>
-- SVG icons by: <a href="https://github.com/duiker101/pokemon-type-svg-icons" style="text-decoration: none;">Icons</a>
+- <a href="https://github.com/duiker101/pokemon-type-svg-icons" style="text-decoration: none;">Icons</a>
 
 <p align="center">
 <img width="200px" src="https://i.imgur.com/6ggWZtO.png"/>
